@@ -1,0 +1,17 @@
+{
+    "name": "baso-m-alif/perpustakaan-digital-ukk",
+    "description": "untuk ujian kompetensi keahlian smk muhammadiyah sengkang 2024",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "BasoMAlif\\PerpustakaanDigitalUkk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zenn1104",
+            "email": "basoarif34@gmail.com"
+        }
+    ],
+    "require": {}
+}
